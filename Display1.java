@@ -18,6 +18,8 @@ public class Display1 extends HttpServlet {
 	/**
 	 * 
 	 */
+	
+	// adding some new values
 	private static final long serialVersionUID = 1L;
 	@Override
 	protected void doGet(HttpServletRequest request, HttpServletResponse resp)
