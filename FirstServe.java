@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.Statement;
-
+//NEW CHCKOUT
 public class FirstServe extends HttpServlet {
 	@Override
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
